@@ -10,3 +10,4 @@ $w.onReady(async function () {
 
     // Click 'Preview' to run your code
 });
+export const studioCommit = 'studioCommit'
